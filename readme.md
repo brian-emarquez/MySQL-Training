@@ -1,4 +1,45 @@
-### MSQL Workbench
+
+<h2 align="center"> MySQL DataBase</h2>
+
+<p align="center">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/MySQL-DataBase?color=red">
+  </a>
+  <a href="https://github.com/BrianMarquez3/MySQL-DataBase/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/MySQL-DataBase.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/MySQL-DataBase/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/MySQL-DataBase.svg?style=flat" alt="Forks">
+  </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=gren&label=Version&logo=php">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=red&label=Version&logo=php">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/MySQL-DataBase">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-DataBase/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-DataBase/total?color=green">
+  </a>
+   </a>
+   <a href="https://github.com/BrianMarquez3/MySQL-DataBase/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/MySQL-DataBase?color=darkrose&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/MySQL-DataBase?style=for-the-badge">
+</P>
+
+  
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/mysql.png" />
+    </td>
+  </tr>
+</table>
 
 MySQL Workbench es una herramienta visual de diseño de bases de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, gestión y mantenimiento para el sistema de base de datos MySQL. Es el sucesor de DBDesigner 4 de fabFORCE.net, y reemplaza el anterior conjunto de software, MySQL GUI Tools Bundle.
 
@@ -48,3 +89,15 @@ El 5 de marzo de 2015, el equipo de MySQL Workbench anunció,11​ su primera ed
 <li>Exploración de instancias variables.</li>
 <li>Exploración de ficheros de registros.</li>
 <li>Exportación e importación masiva de datos.</li></ul></li></ul>
+
+### Licenciamiento y Ediciones
+MySQL Workbench es uno de los primeros productos de la familia MySQL que ofrece dos ediciones diferentes - una de código abierto y una edición comercial.13​ La " Community Edition " es un producto con todas las funciones que no se paralizó de ninguna manera. Al ser la base para todas las otras ediciones , se beneficiará de todos los esfuerzos de desarrollo futuro . La edición comercial " Standard Edition " amplía la Community Edition con una serie de módulos y complementos.
+
+Como esta decisión empresarial se anunció poco después de la adquisición de MySQL por Sun Microsystems , esto ha provocado la especulación en la prensa sobre el futuro de licencias de la base de datos MySQL.
+
+### Recepción comunitaria y comentarios.
+
+Desde su introducción, MySQL Workbench se ha hecho popular dentro de la comunidad MySQL.Desde 2010, ahora es el segundo producto más descargado del sitio web de MySQL con más de 250 000 descargas al mes.17​ Antes de eso, fue votada como la Herramienta de base de datos del año 2009 en Developer.com.18​
+
+
+MySQL Workbench ha sido revisado por la comunidad de código abierto y revistas impresas
