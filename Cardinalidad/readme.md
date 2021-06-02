@@ -1,20 +1,16 @@
 ### Cardinalidad
 
-**Metodo de O**
+Es el numero d entidades con la cual otra entidad puede asociar mediante una relacion
 
-- Cual es la minima cantidad de...
-- Cual es la maxima cantidad de...
+para mostra la cardinalidades se suele poner etiquetas en las lineas que unen las relaciones con las entidades
 
+_Mucho a muchos_
 
+  
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/cardinalidad.png" />
+      <img align="center" style="padding=0;" src="../imagesmuchosamuchos.png" />
     </td>
   </tr>
 </table>
-
-
-_Ejemplo_
-
-"Cada conductor puede llevar muchos paquetes pero cada paquete solo debe ser entregado pro un conductor"
