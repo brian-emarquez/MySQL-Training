@@ -44,3 +44,57 @@ _Ejemplo
     </td>
   </tr>
 </table>
+
+_muchos a uno_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../muchosauno.png" />
+    </td>
+  </tr>
+</table>
+
+_uno a uno_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoauno" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoauno1" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoauno2" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoauno3" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoauno4" />
+    </td>
+  </tr>
+</table>
+
