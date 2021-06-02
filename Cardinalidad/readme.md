@@ -60,7 +60,7 @@ _uno a uno_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/unoauno" />
+      <img align="center" style="padding=0;" src="../images/unoauno.png" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ _uno a uno_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/unoauno1" />
+      <img align="center" style="padding=0;" src="../images/unoauno1.png" />
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@ _uno a uno_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/unoauno2" />
+      <img align="center" style="padding=0;" src="../images/unoauno2.png" />
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ _uno a uno_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/unoauno3" />
+      <img align="center" style="padding=0;" src="../images/unoauno3.png" />
     </td>
   </tr>
 </table>
@@ -93,7 +93,7 @@ _uno a uno_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../mages/unoauno4" />
+      <img align="center" style="padding=0;" src="../mages/unoauno4.png" />
     </td>
   </tr>
 </table>
