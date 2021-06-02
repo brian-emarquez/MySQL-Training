@@ -12,8 +12,8 @@
   <a href="https://github.com/BrianMarquez3/MySQL-DataBase/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/MySQL-DataBase.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=gren&label=Version&logo=php">
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=red&label=Version&logo=php">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=gren&label=Version&logo=sql">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=red&label=Version&logo=sql">
   </a>
   
   </a>
