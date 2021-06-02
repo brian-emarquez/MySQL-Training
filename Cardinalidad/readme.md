@@ -14,3 +14,33 @@ _Mucho a muchos_
     </td>
   </tr>
 </table>
+
+_Ejemplo
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../muchosamuchos1.png" />
+    </td>
+  </tr>
+</table>
+
+_uno a muchos_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoamuchos.png" />
+    </td>
+  </tr>
+</table>
+
+_Ejemplo
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../unoamuchos1.png" />
+    </td>
+  </tr>
+</table>
