@@ -59,7 +59,7 @@
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/blob/master/LICENCE)
+Todo acerca de la licencia [LICENCE](https://github.com/BrianMarquez3/MySQL-Training/blob/main/LICENCE)
 
 <!-- <div align="center"><img src="./images/circle.gif"></div> -->
 
