@@ -47,12 +47,24 @@
 </table>
 
 
-## Instalacion
+## Install
 
-📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
-📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
-📦 [Install GitKraken](https://www.gitkraken.com/) Get The Legendary GitKraken Client.<br>
+📦 [MySQL Workbench]([https://git-scm.com/](https://dev.mysql.com/downloads/workbench/)) MySQL Community Downloads <br>
+📦 [MariaDB](https://mariadb.org/download/?t=mariadb) Download MariaDB Server <br>
 
+
+## Comands
+
+_Resotore Database MYSQL _
+
+[Restaurar base de datos o importar datos](https://www.youtube.com/watch?v=GHwbQ9HBX0E)
+
+_Daigramar E-R_
+
+[Relaciones en MySQL Workbench](https://www.javierrguez.com/generar-diagrama-entidad-relacion-mysql/)
+
+
+---
 
 
 ## Paypal Donation
