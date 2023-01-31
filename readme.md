@@ -1,5 +1,5 @@
 
-<h2 align="center"> MySQL DataBase</h2>
+<h2 align="center"> MySQL Training</h2>
 
 <p align="center">
   
