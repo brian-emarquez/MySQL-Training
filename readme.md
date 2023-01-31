@@ -59,7 +59,7 @@ _Resotore Database MYSQL_
 
 [Restaurar base de datos o importar datos](https://www.youtube.com/watch?v=GHwbQ9HBX0E)
 
-_Daigramar E-R_
+_Diagram E-R_
 
 [Relaciones en MySQL Workbench](https://www.javierrguez.com/generar-diagrama-entidad-relacion-mysql/)
 
