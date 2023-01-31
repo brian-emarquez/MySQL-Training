@@ -3,34 +3,39 @@
 
 <p align="center">
   
-   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/MySQL-DataBase?color=red">
   </a>
-  <a href="https://github.com/BrianMarquez3/MySQL-DataBase/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/MySQL-DataBase.svg?style=flat" alt="Stars">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/MySQL-Training?color=red">
   </a>
-  <a href="https://github.com/BrianMarquez3/MySQL-DataBase/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/MySQL-DataBase.svg?style=flat" alt="Forks">
+  
+  <a href="https://github.com/BrianMarquez3/MySQL-Training/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/MySQL-Training.svg?style=flat" alt="Stars">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=gren&label=Version&logo=sql">
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-DataBase?color=red&label=Version&logo=sql">
+  
+  <a href="https://github.com/BrianMarquez3/MySQL-Training/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/MySQL-Training.svg?style=flat" alt="Forks">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/MySQL-DataBase">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-Training?color=gren&label=Version&logo=sql">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/MySQL-Training?color=red&label=Version&logo=sql">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-DataBase/total?color=violet">
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-DataBase/total?color=green">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/MySQL-Training">
   </a>
-   </a>
-   <a href="https://github.com/BrianMarquez3/MySQL-DataBase/network">
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-Training/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/MySQL-Training/total?color=green">
+  </a>
+  
+   <a href="https://github.com/BrianMarquez3/MySQL-Training/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
-   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/MySQL-DataBase?color=darkrose&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/MySQL-DataBase?style=for-the-badge">
-</P>
+  
+   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/MySQL-Training?color=darkrose&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/MySQL-Training?style=for-the-badge">
+</p>
 
   
 <table align="center">
