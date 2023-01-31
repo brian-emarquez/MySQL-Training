@@ -47,6 +47,27 @@
 </table>
 
 
+## Instalacion
+
+📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
+📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
+📦 [Install GitKraken](https://www.gitkraken.com/) Get The Legendary GitKraken Client.<br>
 
 
-MySQL Workbench ha sido revisado por la comunidad de código abierto y revistas impresas
+
+## Paypal Donation
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+## License 
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/blob/master/LICENCE)
+
+<!-- <div align="center"><img src="./images/circle.gif"></div> -->
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/git00.gif" />
+    </td>
+  </tr>
+</table>
+
