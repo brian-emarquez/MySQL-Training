@@ -49,13 +49,13 @@
 
 ## Install
 
-📦 [MySQL Workbench]([https://git-scm.com/](https://dev.mysql.com/downloads/workbench/)) MySQL Community Downloads <br>
+📦 [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) MySQL Community Downloads <br>
 📦 [MariaDB](https://mariadb.org/download/?t=mariadb) Download MariaDB Server <br>
 
 
 ## Comands
 
-_Resotore Database MYSQL _
+_Resotore Database MYSQL_
 
 [Restaurar base de datos o importar datos](https://www.youtube.com/watch?v=GHwbQ9HBX0E)
 
@@ -68,7 +68,7 @@ _Daigramar E-R_
 
 
 ## Paypal Donation
-🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ## License 
 Todo acerca de la licencia [LICENCE](https://github.com/BrianMarquez3/MySQL-Training/blob/main/LICENCE)
