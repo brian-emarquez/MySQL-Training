@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/myql_main.png" />
+      <img align="center" style="padding=0;" src="./images/mysql_main_2.webp" />
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@
 
 ## Comands
 
-_Resotore Database MYSQL_
+_Restore Database MYSQL_
 
 [Restaurar base de datos o importar datos](https://www.youtube.com/watch?v=GHwbQ9HBX0E)
 
