@@ -78,7 +78,7 @@ Todo acerca de la licencia [LICENCE](https://github.com/BrianMarquez3/MySQL-Trai
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git00.gif" />
+      <img align="center" style="padding=0;" src="./images/MT7X.gif" />
     </td>
   </tr>
 </table>
