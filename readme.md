@@ -63,6 +63,26 @@ _Diagram E-R_
 
 [Relaciones en MySQL Workbench](https://www.javierrguez.com/generar-diagrama-entidad-relacion-mysql/)
 
+* SQL FOREIGN KEY on CREATE TABLE
+
+
+´´´sql
+CREATE TABLE parent (
+    id INT NOT NULL,
+    PRIMARY KEY (id)
+) ENGINE=INNODB;
+
+CREATE TABLE child (
+    id INT,
+    parent_id INT,
+    INDEX par_ind (parent_id),
+    FOREIGN KEY (parent_id)
+        REFERENCES parent(id)
+        ON DELETE CASCADE
+) ENGINE=INNODB;
+´´´
+
+
 
 ---
 
