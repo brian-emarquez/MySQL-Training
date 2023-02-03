@@ -66,7 +66,7 @@ _Diagram E-R_
 * SQL FOREIGN KEY on CREATE TABLE
 
 
-´´´sql
+```sql
 CREATE TABLE parent (
     id INT NOT NULL,
     PRIMARY KEY (id)
@@ -80,7 +80,7 @@ CREATE TABLE child (
         REFERENCES parent(id)
         ON DELETE CASCADE
 ) ENGINE=INNODB;
-´´´
+```
 
 
 
