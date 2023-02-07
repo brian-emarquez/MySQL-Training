@@ -82,7 +82,12 @@ CREATE TABLE child (
 ) ENGINE=INNODB;
 ```
 
+_Alter Table Forenkey_
 
+```sql
+alter table tbtipodocumentopersonal
+DROP CONSTRAINT fk_tbtipodocumentopersonal_tbdependiente1;
+```
 
 ---
 
