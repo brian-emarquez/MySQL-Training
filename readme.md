@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/mysql_main_2.webp" />
+      <img align="center" style="padding=0;" src="./images/mysql_main_3.webp" />
     </td>
   </tr>
 </table>
@@ -90,7 +90,6 @@ DROP CONSTRAINT fk_tbtipodocumentopersonal_tbdependiente1;
 ```
 
 ---
-
 
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
